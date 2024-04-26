@@ -1,0 +1,1 @@
+import{_ as o}from"./RegisterCourse.a80b6fe8.js";import{_ as r,c as t,e as c,o as n}from"./entry.8ad39319.js";const s={};function _(a,m){const e=o;return n(),t("main",null,[c(e,{course:"ACT"})])}const p=r(s,[["render",_]]);export{p as default};

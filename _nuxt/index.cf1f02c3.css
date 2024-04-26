@@ -1,0 +1,1 @@
+#reg-btn{animation:breathe 1s infinite}.reg-btn-div{overflow:hidden}@keyframes breathe{0%{transform:scale(1)}50%{transform:scale(1.1)}to{transform:scale(1)}}#reg-btn:hover{animation:none}.heading{background-color:#ea8825}.subhead{background-color:#23395d}#HASH{display:flex;justify-content:space-between}
